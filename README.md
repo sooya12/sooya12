@@ -28,6 +28,11 @@
 <br/>
 
 
+#### :bar_chart: Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooya12&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)  
+
+
 #### :stuck_out_tongue_closed_eyes: Toy Projects
 
 > **LHInfo** / Web, Use OpenAPI
