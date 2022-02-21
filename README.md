@@ -1,5 +1,13 @@
 ## :raised_hand_with_fingers_splayed: It's me, sooya!
 
+<br/>
+<br/>
+
+
+#### :woman_office_worker:  Backend (!! Junior !!) Developer
+
+<br/>
+<br/>
 
 
 #### :computer: Tech Stack 
@@ -15,12 +23,6 @@
 #### :hammer: Tools
 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/>
-
-<br/>
-<br/>
-
-
-#### :woman_office_worker:  Backend (!! Junior !!) Developer
 
 <br/>
 <br/>
