@@ -4,8 +4,7 @@
 <br/>
 
 
-#### :woman_office_worker:  Backend (!! Junior !!) Developer
-
+#### :woman_office_worker:  Junior Backend Developer → Work in IT at a Bank
 <br/>
 <br/>
 
